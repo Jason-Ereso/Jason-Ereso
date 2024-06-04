@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jason-Ereso
-- 👀 I’m interested in Software Development, Machine Learning and much more!
-- 🌱 I’m currently learning node.js, PHP and other frameworks
+- 👀 I’m interested in Software Development, Web Development, Machine Learning and much more!
+- 🌱 I’m currently learning node.js, PHP, ReactJS, and other frameworks
 - 💞️ I’m looking to collaborate on whatever there is to collab on
 
 
